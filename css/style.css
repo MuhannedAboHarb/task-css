@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(222, 233, 246);
+}
+
+.header{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header h1 {
+    font-size: 28px;
+    color: rgb(39, 39, 250);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.card{
+    margin-top: 30px;
+}
+
+.card >div{
+    border-radius: 14px;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card  h3 {
+    border-left: 3px gold solid;
+    padding: 6px;
+    font-size: 22px;
+}
+
+#text{
+    color: blue;
+    margin-left: 18px;
+}
+.card li{
+    font-size: 14px;
+    padding: 4px;
+}
+
+.c7 >img{
+    width: 45%;
+    margin-left: 30%;
+    margin-right: auto;
+}
+
+.c8>ul>li {
+    color: blue;
+    padding: 2px;
+}
+
+footer{
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+}
