@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Study Notes Website
 
 A simple HTML & CSS project that presents a structured study notes page for students.  
@@ -93,3 +94,6 @@ Web Developer | PHP & Laravel Developer
 
 Version: 3.0  
 Last Update: March 2026
+=======
+# task-css
+>>>>>>> 2095ffc46456198dca5b4b14b25edff7dad3ebc7

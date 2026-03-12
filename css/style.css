@@ -1,59 +1,76 @@
-body{
+body {
     background-color: rgb(222, 233, 246);
 }
 
-.header{
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+.header {
+    width: 60%;
+    margin: 40px auto 20px auto;
 }
 
 .header h1 {
     font-size: 28px;
     color: rgb(39, 39, 250);
     text-align: center;
-    margin-top: 40px;
 }
 
-.card{
-    margin-top: 30px;
+main {
+    width: 60%;
+    margin: 0 auto 40px auto;
 }
 
-.card >div{
+main > section {
     border-radius: 14px;
     background-color: white;
     padding: 20px;
     margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-.card  h3 {
+main h3 {
     border-left: 3px gold solid;
-    padding: 6px;
+    padding-left: 10px;
     font-size: 22px;
+    margin-bottom: 10px;
 }
 
-#text{
+.sub-title {
     color: blue;
     margin-left: 18px;
+    margin-top: 15px;
+    margin-bottom: 8px;
 }
-.card li{
+
+.c3 li {
+    margin: 20px;
+}
+
+
+.c4 li {
     font-size: 14px;
     padding: 4px;
 }
 
-.c7 >img{
+.c6 p {
+    margin-left: 18px;
+    font-size: 14px;
+}
+
+
+.c7 img {
     width: 45%;
-    margin-left: 30%;
-    margin-right: auto;
+    display: block;
+    margin: 0 auto 14px auto;
+    border-radius: 8px;
 }
 
-.c8>ul>li {
+.c8 li {
     color: blue;
-    padding: 2px;
+    font-size: 14px;
 }
 
-footer{
-    width: 20%;
-    margin-right: auto;
-    margin-left: auto;
+footer {
+    width: 40%;
+    margin: 20px auto;
+    text-align: center;
+    color: #333;
 }
